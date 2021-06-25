@@ -15,3 +15,8 @@ Comandos de voz disponíveis:
     - Notícias: abre as notícias no motor de busca Google;
     - Suporte: fornece o contacto dos desenvolvedores da aplicação;
     - Ajuda: redireciona para esta página de ajuda.
+    
+Comandos em fase de testes:
+    - Alarme <hora:minutos>: coloca um alarme para as horas especificadas;
+    - Pandemia: informa o ponto de situação atual da pandemia do covid-19 em Portugal;
+    - Ponto de situação covid-19: informa o ponto de situação atual da pandemia do covid-19 em Portugal;
