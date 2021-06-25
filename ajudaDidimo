@@ -1,1 +1,17 @@
 Para mais ajuda, contacte o x
+
+Comandos de voz disponíveis:
+    - Meteorologia <cidade>: diz a meteorologia e temperatura para a cidade pedida;
+    - Mensagem <número>: abre a aplicação mensagens do telemóvel com o número desejado preenchido;
+    - Chamada <número>: abre a aplicação telefone do telemóvel e preenche o campo de inserção de número com o número fornecido;
+    - Horas: diz as horas do telemóvel;
+    - YouTube: abre a aplicação YouTube, caso esta esteja instalada no telemóvel;
+    - Facebook: abre a aplicação Facebbok, caso esta esteja instalada no telemóvel;
+    - Messenger: abre a aplicação Messenger, caso esta esteja instalada no telemóvel;
+    - Instagram: abre a aplicação Instagram, caso esta esteja instalada no telemóvel;
+    - Google Play: abre a aplicação Google Play, caso esta esteja instalada no telemóvel;
+    - E-mail: abre a aplicação de emails do telemóvel;
+    - Pesquisar/Pesquisa <termos>: pesquisa pelos termos requisitados no motor de busca Google;
+    - Notícias: abre as notícias no motor de busca Google;
+    - Suporte: fornece o contacto dos desenvolvedores da aplicação;
+    - Ajuda: redireciona para esta página de ajuda.
