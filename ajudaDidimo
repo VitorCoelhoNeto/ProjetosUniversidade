@@ -22,9 +22,10 @@ Comandos de voz disponíveis:
     - Câmara: abre a câmara do utilizador em modo de fotografia;
     - Vídeo: abre a câmara do utilizador em modo de vídeo;
     - Mapa: abre o mapa na localização atual do telemóvel;
-    - Carro: reserva um táxi para o utilizador; Nota: Apenas disponível com o Wear OS (Relógio da Google)
+    - Carro: reserva um táxi para o utilizador; Nota: Apenas disponível com o Wear OS (Relógio da Google).
 
 Comandos em fase de testes:    
     - Contacto: cria um novo contacto na lista de contactos do utilizador;
     - Calculadora: abre a calculadora do telemóvel;
+    - Fotos: abre a galeria.
 
