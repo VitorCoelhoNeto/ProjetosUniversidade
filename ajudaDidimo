@@ -30,4 +30,4 @@ Comandos de voz disponíveis:
     - Galeria: abre a galeria do telemóvel.
     
 Comandos em fase de testes:    
-    - Notas: cria uma nota;
+    - Notas <título> <texto>: cria uma nota;
