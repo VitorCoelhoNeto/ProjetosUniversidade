@@ -28,13 +28,11 @@ Comandos de voz disponíveis:
     - Calendário: abre o calendário;
     - Mensagens: abre a aplicação das mensagens do utilizador;
     - Galeria: abre a galeria do telemóvel.
+    - Notas <título> <texto>: cria uma nota;
     
 Comandos extra:
     - Bateria: diz a percentagem de bateria do telemóvel;
     - Tipo: diz o tipo de dispositivo que está a ser utilizado;
-    - Estado: diz se a telemóvel está a carregar ou não;
+    - Estado: diz se o telemóvel está a carregar ou não;
     - Modelo: diz o modelo do telemóvel;
     - Sistema operativo: diz o sistema operativo do telemóvel.
-    
-Comandos em fase de testes:    
-    - Notas <título> <texto>: cria uma nota;
