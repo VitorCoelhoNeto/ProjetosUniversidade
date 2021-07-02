@@ -1,0 +1,38 @@
+Para mais ajuda, contacte o x
+
+Comandos de voz disponíveis:
+    - Meteorologia <cidade>: diz a meteorologia e temperatura para a cidade pedida;
+    - Mensagem <número>: abre a aplicação mensagens do telemóvel com o número desejado preenchido;
+    - Chamada <número>: abre a aplicação telefone do telemóvel e preenche o campo de inserção de número com o número fornecido;
+    - Horas: diz as horas do telemóvel;
+    - YouTube: abre a aplicação YouTube, caso esta esteja instalada no telemóvel;
+    - Facebook: abre a aplicação Facebbok, caso esta esteja instalada no telemóvel;
+    - Messenger: abre a aplicação Messenger, caso esta esteja instalada no telemóvel;
+    - Instagram: abre a aplicação Instagram, caso esta esteja instalada no telemóvel;
+    - Google Play: abre a aplicação Google Play, caso esta esteja instalada no telemóvel;
+    - E-mail: abre a aplicação de emails do telemóvel;
+    - Pesquisar/Pesquisa <termos>: pesquisa pelos termos requisitados no motor de busca Google;
+    - Notícias: abre as notícias no motor de busca Google;
+    - Suporte: fornece o contacto dos desenvolvedores da aplicação;
+    - Ajuda: redireciona para esta página de ajuda.
+    - Alarme <hora:minutos> horas: coloca um alarme para as horas especificadas;
+    - Pandemia: informa o ponto de situação atual da pandemia do covid-19 em Portugal;
+    - Ponto de situação covid-19: informa o ponto de situação atual da pandemia do covid-19 em Portugal;
+    - Olá: cumprimenta o utilizador;
+    - Câmara: abre a câmara do utilizador em modo de fotografia;
+    - Vídeo: abre a câmara do utilizador em modo de vídeo;
+    - Mapa/GPS: abre o mapa na localização atual do telemóvel;
+    - Carro: reserva um táxi para o utilizador; Nota: Apenas disponível com o Wear OS (Relógio da Google)
+    - Contacto <nome> <número>: cria um novo contacto na lista de contactos do utilizador;
+    - Calculadora: abre a calculadora do telemóvel;
+    - Calendário: abre o calendário;
+    - Mensagens: abre a aplicação das mensagens do utilizador;
+    - Galeria: abre a galeria do telemóvel.
+    - Notas <título> <texto>: cria uma nota;
+    
+Comandos extra:
+    - Bateria: diz a percentagem de bateria do telemóvel;
+    - Tipo: diz o tipo de dispositivo que está a ser utilizado;
+    - Estado: diz se o telemóvel está a carregar ou não;
+    - Modelo: diz o modelo do telemóvel;
+    - Sistema operativo: diz o sistema operativo do telemóvel.
